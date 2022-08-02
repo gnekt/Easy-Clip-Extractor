@@ -127,5 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-Elaborated/*
-toElaborate/*
+*.mp4
+*.avi
+*.txt
